@@ -1,7 +1,7 @@
 # MineriaDeDatos
 ## Fase 1
 
--[Examen Diagnostico]()
+-[Examen Diagnostico](https://github.com/DanielaSalazarN/MineriaDeDatos/blob/main/Ex-Diagnostico_1855060.pdf)
 
 -[Mapa mental]()
 
